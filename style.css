@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.show {
+    background-color: aqua;
+    padding: 50px;
+
+}
+
+.hidden {
+    display: none;
+}
